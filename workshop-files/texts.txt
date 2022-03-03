@@ -1,0 +1,46 @@
+Content types:
+- Landing page
+    - Title
+    - Content
+    - URL slug
+- [Component] CTA
+    - Headline
+    - Subheadline
+    - Button text
+    - Button link
+- [Component] Hero
+    - Headline
+    - Subheadline
+    - CTA text
+    - CTA link
+    - Image
+- [Component] Text with image
+    - Headline
+    - Text
+    - Image
+
+
+
+# HERO:
+Wonderful country with beautiful nature
+Ukraine's national colors refer to its golden fields and blue sky
+Show me more
+https://www.google.com/search?q=ukraine+nature
+
+# Text with image:
+The tunnel of love
+The Tunnel of Love is a section of industrial railway located near Klevan, Ukraine, that links it with Orzhiv. It is a railway surrounded by green arches and is three to five kilometers in length. It is known for being a favorite place for couples to take walks.
+
+# CTA:
+Donate CTA
+Ukraine needs your help
+Help Ukraine preserve its nature wonders
+Donate
+https://gatsbyconf.com/power-in-numbers
+
+# Hawk's eye rock
+Hawk's Eye Rock
+Monument of nature
+Shaped in a form of an arch and resembling an eye
+Take me there
+https://theculturetrip.com/europe/ukraine/articles/11-ways-to-explore-the-ukrainian-wilderness/
